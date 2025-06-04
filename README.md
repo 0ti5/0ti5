@@ -1,4 +1,9 @@
-## Hi there 👋
+### 👋 Hi there, I'm James Allison
+
+- 🔭 I’m currently working on an embedded wildlife telemetry system with the San Diego Wildlife Alliance — building a solar-powered LoRa device to classify elephant movement using IMU data.
+- 🌱 I’m currently learning advanced FPGA development with VHDL, SoC integration techniques, and low-power optimization strategies for embedded systems.
+- 👯 I’m looking to collaborate on real-time embedded projects, FPGA/SoC applications, or open-source hardware platforms — especially those with a conservation or social impact focus.
+
 
 <!--
 **0ti5/0ti5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
